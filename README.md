@@ -1,4 +1,4 @@
-#TutsPlus An Introduction to Node JS
+# TutsPlus An Introduction to Node JS
 ## NPM (node package manager)
-###npm install {package}
-###example underscore, express etc
+### npm install {package}
+### example underscore, express etc
